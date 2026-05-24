@@ -1,0 +1,105 @@
+{
+    "boxes": [
+        {
+            "allowed_orientations": 63,
+            "color": [ 230, 41, 55 ],
+            "size": [ 1.0, 1.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 0, 228, 48 ],
+            "size": [ 1.0, 2.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 0, 121, 241 ],
+            "size": [ 2.0, 1.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 255, 161, 0 ],
+            "size": [ 1.0, 1.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 255, 109, 194 ],
+            "size": [ 2.0, 2.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 126, 87, 194 ],
+            "size": [ 1.0, 3.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 0, 188, 212 ],
+            "size": [ 3.0, 1.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 76, 175, 80 ],
+            "size": [ 2.0, 1.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 244, 67, 54 ],
+            "size": [ 1.0, 2.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 33, 150, 243 ],
+            "size": [ 2.0, 2.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 156, 39, 176 ],
+            "size": [ 1.0, 1.0, 3.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 255, 193, 7 ],
+            "size": [ 3.0, 2.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 96, 125, 139 ],
+            "size": [ 2.0, 3.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 139, 195, 74 ],
+            "size": [ 1.0, 2.0, 3.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 255, 87, 34 ],
+            "size": [ 3.0, 1.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 63, 81, 181 ],
+            "size": [ 2.0, 1.0, 3.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 0, 150, 136 ],
+            "size": [ 3.0, 2.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 205, 220, 57 ],
+            "size": [ 2.0, 3.0, 2.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 121, 85, 72 ],
+            "size": [ 3.0, 3.0, 1.0 ]
+        },
+        {
+            "allowed_orientations": 63,
+            "color": [ 158, 158, 158 ],
+            "size": [ 1.0, 3.0, 3.0 ]
+        }
+    ],
+    "container_size": [ 10.0, 10.0, 10.0 ]
+}

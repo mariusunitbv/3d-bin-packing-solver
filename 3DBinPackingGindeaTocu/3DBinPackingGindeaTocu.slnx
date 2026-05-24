@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3DBinPackingGindeaTocu/3DBinPackingGindeaTocu.vcxproj" Id="ae50d1bc-8ee2-4585-8a17-d0d52bc503f9" />
+</Solution>

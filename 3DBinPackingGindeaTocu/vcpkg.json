@@ -1,0 +1,16 @@
+{
+  "dependencies": [
+    "imgui",
+    "implot",
+    "nlohmann-json",
+    "raylib",
+    "tinyfiledialogs",
+    "glfw3"
+  ],
+  "overrides": [
+    {
+      "name": "imgui",
+      "version": "1.92.7"
+    }
+  ]
+}

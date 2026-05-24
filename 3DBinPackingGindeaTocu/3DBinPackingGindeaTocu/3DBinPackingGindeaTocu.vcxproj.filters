@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\pch\pch.cpp" />
+    <ClCompile Include="src\scene\scene.ixx" />
+    <ClCompile Include="src\scene\scene_impl.cpp" />
+    <ClCompile Include="src\rl_imgui\rlImGui.cpp" />
+    <ClCompile Include="src\model\model.ixx" />
+    <ClCompile Include="src\model\model_impl.cpp" />
+    <ClCompile Include="src\loader\loader.ixx" />
+    <ClCompile Include="src\loader\loader_impl.cpp" />
+    <ClCompile Include="src\model\types\orientation.ixx" />
+    <ClCompile Include="src\model\types\box.ixx" />
+    <ClCompile Include="src\solver\solver.ixx" />
+    <ClCompile Include="src\solver\solver_impl.cpp" />
+    <ClCompile Include="src\solver\solvers\blb_solver.ixx" />
+    <ClCompile Include="src\solver\solvers\blb_solver_impl.cpp" />
+    <ClCompile Include="src\solver\layerbased\layer_based_solver.ixx" />
+    <ClCompile Include="src\solver\layerbased\layer_based_solver_impl.cpp" />
+    <ClCompile Include="src\solver\extremepoints\extreme_points_solver.ixx" />
+    <ClCompile Include="src\solver\extremepoints\extreme_points_solver_impl.cpp" />
+    <ClCompile Include="src\solver\greedy\greedy_solver.ixx" />
+    <ClCompile Include="src\solver\greedy\greedy_solver_impl.cpp" />
+    <ClCompile Include="src\random\random.ixx" />
+    <ClCompile Include="src\random\random_impl.cpp" />
+    <ClCompile Include="src\solver\individual.ixx" />
+    <ClCompile Include="src\solver\individual_impl.cpp" />
+    <ClCompile Include="src\solver\genetic\genetic_solver.ixx" />
+    <ClCompile Include="src\solver\genetic\genetic_solver_impl.cpp" />
+    <ClCompile Include="src\benchmark\benchmark_timer.ixx" />
+    <ClCompile Include="src\benchmark\benchmark_timer_impl.cpp" />
+    <ClCompile Include="src\solver\hillclimbing\hillclimbing_solver.ixx" />
+    <ClCompile Include="src\solver\hillclimbing\hillclimbing_solver_impl.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\pch\pch.h" />
+    <ClInclude Include="src\rl_imgui\imgui_impl_raylib.h" />
+    <ClInclude Include="src\rl_imgui\rlImGui.h" />
+    <ClInclude Include="src\rl_imgui\rlImGuiColors.h" />
+  </ItemGroup>
+</Project>
